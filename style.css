@@ -1,0 +1,54 @@
+body{
+    padding: 100px;
+}
+#login-form{
+    margin-top: 50px;
+    border-radius: 5px;
+    box-shadow: 6px 6px 28px blue;
+}
+.form-group {
+    padding: 8px;
+}
+.btn{
+    margin: 8px;
+}
+#bank-title{
+    color: #004cff;
+    text-align: center;
+}
+#transactionArea{
+    display: none;
+}
+#DWBarea{
+    display: flex;
+}
+.col{
+    height: 120px;
+    margin:30px;
+    padding: 10px;
+    border-radius: 8px;
+    color: aliceblue;
+}
+#col1{
+    background-color: #0055ff;
+}
+#col2{
+    background-color: #ff0000;
+}
+#col3{
+    background-color: #00ff00;
+}
+#DWarea{
+    display: flex;
+}
+.enterAmount{
+    width: 500px;
+    height: 200px;
+    margin: 15px;
+    padding: 12px;
+    box-shadow: 5px 5px 10px gray ;
+    border-radius: 6px
+}
+.inputLarge{
+    width: 80%;
+}
